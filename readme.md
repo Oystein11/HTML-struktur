@@ -1,1 +1,1 @@
-#en veldig basic nettside.
+#en veldig basic nettside, men med ekstra deler.
